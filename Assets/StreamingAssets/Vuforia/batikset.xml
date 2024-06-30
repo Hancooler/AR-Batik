@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="batikunsil" size="1.000000 1.000000" />
+    <ImageTarget name="batikgarut" size="1.000000 0.562687" />
+    <ImageTarget name="batikparangkusumo_solo" size="1.000000 0.554475" />
+    <ImageTarget name="batik-lampung" size="1.000000 0.700499" />
+    <ImageTarget name="batik-kalimantan-timur" size="1.000000 0.666667" />
+    <ImageTarget name="batikmadura" size="1.000000 0.746787" />
+    <ImageTarget name="batik-betawi" size="1.000000 0.666667" />
+    <ImageTarget name="batikasmatpapua" size="1.000000 0.626761" />
+    <ImageTarget name="pringsedapurmagetan" size="1.000000 0.750000" />
+    <ImageTarget name="motif_batik_solo_sidomukti" size="1.000000 0.746875" />
+    <ImageTarget name="megamendung" size="1.000000 0.714032" />
+    <ImageTarget name="batiktubo" size="1.000000 0.699253" />
+    <ImageTarget name="batiktambalyogyakarta" size="1.000000 1.332880" />
+    <ImageTarget name="batiksingabarong" size="1.000000 0.702128" />
+    <ImageTarget name="batiksidoluhursolo" size="1.000000 0.750000" />
+    <ImageTarget name="batiksekarjagad" size="1.000000 0.667335" />
+    <ImageTarget name="batikpriangantasikmalaya" size="1.000000 0.562057" />
+    <ImageTarget name="batiklasemmerahrembang" size="1.000000 1.000000" />
+    <ImageTarget name="batikkawung" size="1.000000 0.665455" />
+    <ImageTarget name="batik7rupa-pekalongan" size="1.000000 0.748227" />
+  </Tracking>
+</QCARConfig>
