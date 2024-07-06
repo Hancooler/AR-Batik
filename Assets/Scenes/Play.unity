@@ -7453,7 +7453,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 394135324}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
-        m_MethodName: batikgarutan
+        m_MethodName: batikParangsolo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

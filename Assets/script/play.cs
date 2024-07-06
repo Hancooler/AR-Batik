@@ -51,4 +51,57 @@ public class play : MonoBehaviour
         SceneManager.LoadScene("batikpringsedapurmagetan");
     }
 
+    public void batiksolosidomukti()
+    {
+        SceneManager.LoadScene("batiksidomukti");
+    }
+
+    public void batikmegamendung()
+    {
+        SceneManager.LoadScene("batikmegamendung");
+    }
+
+    public void batiktubo()
+    {
+        SceneManager.LoadScene("batiktubo");
+    }
+
+    public void batiktambalyogyakarta()
+    {
+        SceneManager.LoadScene("batiktambal");
+    }
+
+    public void batiksingabarong()
+    {
+        SceneManager.LoadScene("batiksingabarong");
+    }
+
+    public void batiksidoluhur()
+    {
+        SceneManager.LoadScene("batiksidoluhur");
+    }
+
+    public void batiksekarjagad()
+    {
+        SceneManager.LoadScene("batiksekarjagad");
+    }
+    public void batikpriangan()
+    {
+        SceneManager.LoadScene("batikpriangan");
+    }
+
+    public void batiklasemmerahrembang()
+    {
+        SceneManager.LoadScene("batiklasemmerahrembang");
+    }
+
+    public void batikkawung()
+    {
+        SceneManager.LoadScene("batikkawung");
+    }
+
+    public void batik7rupa()
+    {
+        SceneManager.LoadScene("batik7rupa");
+    }
 }
