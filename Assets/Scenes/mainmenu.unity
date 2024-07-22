@@ -455,7 +455,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.2017408, y: 0.7053335}
   m_AnchorMax: {x: 0.75629634, y: 0.88719827}
-  m_AnchoredPosition: {x: 21.229797, y: 3}
+  m_AnchoredPosition: {x: 21.229736, y: 3}
   m_SizeDelta: {x: -16.045898, y: 8.585114}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &649968471
@@ -478,7 +478,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Batik Galery
+  m_text: Batik Digital
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -725,7 +725,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.16085187, y: 0.117342345}
   m_AnchorMax: {x: 0.83322227, y: 0.2014955}
-  m_AnchoredPosition: {x: 30.199295, y: 5.006592}
+  m_AnchoredPosition: {x: 30.199219, y: 5.0063477}
   m_SizeDelta: {x: 14.315491, y: 8.314819}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &855839052
@@ -962,7 +962,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.2702026, y: -10.187134}
+  m_AnchoredPosition: {x: -1.2700195, y: -10.187012}
   m_SizeDelta: {x: 59.989014, y: 56.287598}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1087996808
@@ -1064,7 +1064,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -1082,7 +1082,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 1116148344}
+  m_TargetGraphic: {fileID: 1087996808}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -1306,7 +1306,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.16085187, y: 0.32018924}
   m_AnchorMax: {x: 0.83322227, y: 0.39119822}
-  m_AnchoredPosition: {x: 30.1595, y: -2.3805542}
+  m_AnchoredPosition: {x: 30.159668, y: -2.3806152}
   m_SizeDelta: {x: 14.160004, y: 32.2639}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1820939215
