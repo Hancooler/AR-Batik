@@ -157,8 +157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.06574075, y: 0.082}
   m_AnchorMax: {x: 0.9250001, y: 0.90400004}
-  m_AnchoredPosition: {x: -1.1915283, y: -6.5456543}
-  m_SizeDelta: {x: -2.3832, y: 25.967999}
+  m_AnchoredPosition: {x: -1.1915283, y: -711.16833}
+  m_SizeDelta: {x: -2.3832, y: -1383.2773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &40357255
 MonoBehaviour:
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4ba25e199fa31714593fab2414d30621, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 289510762bc007f44acc805d19c07088, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -322,10 +322,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 752796839}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.15300001, y: 0.16000001}
-  m_AnchorMax: {x: 0.8213704, y: 0.41070178}
-  m_AnchoredPosition: {x: 13.839996, y: 0.49987793}
-  m_SizeDelta: {x: 9.294998, y: 3.6072998}
+  m_AnchorMin: {x: 0.15300001, y: 0.14230263}
+  m_AnchorMax: {x: 0.8491481, y: 0.30400002}
+  m_AnchoredPosition: {x: 3.6994, y: 0}
+  m_SizeDelta: {x: -30.705, y: -46.469788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &263072559
 MonoBehaviour:
@@ -359,8 +359,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279440147
-  m_fontColor: {r: 0.0754717, g: 0.07297971, b: 0.07297971, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -413,7 +413,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0.000091552734}
+  m_margin: {x: 0, y: 6.118042, z: 0, w: 0.000091552734}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -566,10 +566,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 752796839}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.15300001, y: 0.41970828}
-  m_AnchorMax: {x: 0.8491481, y: 0.5072917}
-  m_AnchoredPosition: {x: -1.1600037, y: -5}
-  m_SizeDelta: {x: -3.8558, y: -11.027496}
+  m_AnchorMin: {x: 0.27600002, y: 0.31017104}
+  m_AnchorMax: {x: 0.7325556, y: 0.384}
+  m_AnchoredPosition: {x: -0.91400146, y: -1}
+  m_SizeDelta: {x: -38.171814, y: -32.49701}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &917277040
 MonoBehaviour:
@@ -600,8 +600,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -625,7 +625,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1073,8 +1073,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.6055908, y: -10.76001}
-  m_SizeDelta: {x: 24.926392, y: 22.080002}
+  m_AnchoredPosition: {x: -14.635925, y: 12.624023}
+  m_SizeDelta: {x: 371.0112, y: 424.2866}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1530358653
 MonoBehaviour:
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fc7e28a7065555546b1f8d3efbc99dd6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c39fe94d7cc03442ad53eac0cea5f71, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1229,7 +1229,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 191610c9114ce0a40b2fdebae7cf45fe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 560e0d8591efac84f9340ef1145d7123, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
