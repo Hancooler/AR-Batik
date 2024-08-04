@@ -533,8 +533,8 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 53.84082
+  MaxDistance: 892.1643
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -618,7 +618,7 @@ Transform:
   m_GameObject: {fileID: 366163733}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1035.5488, y: 1987.32, z: -6.4964423}
+  m_LocalPosition: {x: 722, y: 1084, z: -6.4964423}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -658,7 +658,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.21655557, y: 0.6365418}
   m_AnchorMax: {x: 0.75629634, y: 0.88719827}
-  m_AnchoredPosition: {x: -0.022949219, y: 10.023987}
+  m_AnchoredPosition: {x: -0.022949219, y: 10.024048}
   m_SizeDelta: {x: -0.045898438, y: -20.046898}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &649968471
@@ -928,7 +928,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.14974074, y: 0.117342345}
   m_AnchorMax: {x: 0.83322227, y: 0.21538596}
-  m_AnchoredPosition: {x: 3.3161926, y: -3.159912}
+  m_AnchoredPosition: {x: 3.316162, y: -3.159912}
   m_SizeDelta: {x: -14.0666, y: -6.320999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &855839052
@@ -978,6 +978,18 @@ MonoBehaviour:
       - m_Target: {fileID: 324958411}
         m_TargetAssemblyTypeName: exit, Assembly-CSharp
         m_MethodName: Exit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 366163734}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1166,7 +1178,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -3.9246216, y: -13.990967}
+  m_AnchoredPosition: {x: -3.9245605, y: -13.990967}
   m_SizeDelta: {x: 238.9943, y: 317.5625}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1087996808
@@ -1243,7 +1255,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.16085187, y: 0.5}
   m_AnchorMax: {x: 0.83322227, y: 0.60331583}
-  m_AnchoredPosition: {x: -0.8250122, y: -1.9999542}
+  m_AnchoredPosition: {x: -0.8250122, y: -1.999939}
   m_SizeDelta: {x: -5.7841034, y: -9.0415}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1116148343
@@ -1522,7 +1534,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.14233334, y: 0.31711906}
   m_AnchorMax: {x: 0.83322227, y: 0.4151228}
-  m_AnchoredPosition: {x: 7.3161926, y: -12.197144}
+  m_AnchoredPosition: {x: 7.316162, y: -12.197144}
   m_SizeDelta: {x: -22.0665, y: 12.5974}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1820939215
@@ -1572,6 +1584,18 @@ MonoBehaviour:
       - m_Target: {fileID: 324958412}
         m_TargetAssemblyTypeName: about, Assembly-CSharp
         m_MethodName: About
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 366163734}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
