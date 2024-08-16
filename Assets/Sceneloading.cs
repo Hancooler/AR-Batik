@@ -1,18 +1,30 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
-public class Sceneloading : MonoBehaviour
+public class SceneLoader : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public GameObject LoaderUI;
+    public Image Loadingbarfill;
+
+    public void LoadScene(int index)
     {
-        
+        StartCoroutine(LoadScene_Coroutine(index));
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator LoadScene_Coroutine(int index)
     {
-        
+        AsyncOperation Operation = SceneManager.LoadSceneAsync(index);
+      
+        LoaderUI.SetActive(true);
+    
+        while (!Operation.isDone)
+        {
+            float progressValue = Mathf.Clamp01(Operation.progress / 0.9f);
+
+            Loadingbarfill.fillAmount = progressValue;
+            yield return null;
+        }
     }
 }
