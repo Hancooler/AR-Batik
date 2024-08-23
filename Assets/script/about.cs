@@ -7,6 +7,6 @@ public class about : MonoBehaviour
 {
     public void About()
     {
-        SceneManager.LoadScene("about");
+        SceneManager.LoadScene("loadingabout");
     }
 }

@@ -7,6 +7,6 @@ public class btplay : MonoBehaviour
 {
     public void play()
     {
-        SceneManager.LoadScene("Play");
+        SceneManager.LoadScene("loadingplay");
     }
 }
