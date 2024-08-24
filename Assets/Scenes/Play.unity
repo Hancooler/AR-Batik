@@ -832,7 +832,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiksidoluhur
         m_Mode: 1
@@ -977,7 +977,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikmegamendung
         m_Mode: 1
@@ -1256,7 +1256,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikpringsedapurmagetan
         m_Mode: 1
@@ -2217,7 +2217,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikpriangan
         m_Mode: 1
@@ -2362,7 +2362,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiksolosidomukti
         m_Mode: 1
@@ -2567,9 +2567,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 394135325}
-  - component: {fileID: 394135324}
   - component: {fileID: 394135323}
   - component: {fileID: 394135326}
+  - component: {fileID: 394135327}
   m_Layer: 0
   m_Name: Script
   m_TagString: Untagged
@@ -2587,18 +2587,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7401624125896c349ab514ad8fd48fc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &394135324
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 394135322}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e67a9c9f4ca83245a328018165f5f71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &394135325
@@ -2626,6 +2614,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b2078aa03def6f04ba33bfd99d877f26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &394135327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394135322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d10c79afa0f7ad9408d8725d7b070102, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &445039657
@@ -3032,7 +3032,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiksekarjagad
         m_Mode: 1
@@ -3251,7 +3251,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikkaltim
         m_Mode: 1
@@ -3498,7 +3498,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikbetawi
         m_Mode: 1
@@ -3903,8 +3903,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
-        m_TargetAssemblyTypeName: play, Assembly-CSharp
+      - m_Target: {fileID: 394135327}
+        m_TargetAssemblyTypeName: infopopup, Assembly-CSharp
         m_MethodName: batikunsil
         m_Mode: 1
         m_Arguments:
@@ -6576,7 +6576,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiksingabarong
         m_Mode: 1
@@ -7174,7 +7174,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiklasemmerahrembang
         m_Mode: 1
@@ -7319,7 +7319,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiktubo
         m_Mode: 1
@@ -8369,7 +8369,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiktambalyogyakarta
         m_Mode: 1
@@ -9211,7 +9211,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikmadura
         m_Mode: 1
@@ -9356,8 +9356,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
-        m_TargetAssemblyTypeName: play, Assembly-CSharp
+      - m_Target: {fileID: 394135327}
+        m_TargetAssemblyTypeName: infopopup, Assembly-CSharp
         m_MethodName: batikgarutan
         m_Mode: 1
         m_Arguments:
@@ -9761,7 +9761,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batik7rupa
         m_Mode: 1
@@ -10032,7 +10032,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikkawung
         m_Mode: 1
@@ -10652,7 +10652,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batiklampung
         m_Mode: 1
@@ -11191,7 +11191,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikParangsolo
         m_Mode: 1
@@ -12635,7 +12635,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 394135324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: play, Assembly-CSharp
         m_MethodName: batikpapua
         m_Mode: 1
