@@ -11,89 +11,90 @@ public class infopopup : MonoBehaviour
     }
     public void batikgarutan()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading2");
 
     }
     public void batikbetawi()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading3");
 
     }
     public void batikkalimantan()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading4");
     }
     public void batikkawung()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading5");
     }
     public void batiklampung()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading6");
     }
     public void batiklasemmerahrembang()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading7");
     }
     public void batikmadura()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading8");
+    }
+    public void batikunsil()
+    {
+        SceneManager.LoadScene("loading9");
     }
     public void batikmegamendung()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading10");
     }
     public void batikpapua()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading11");
     }
     public void batikparang()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading12");
 
     }
     public void batikpriangan()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading13");
 
     }
     public void batikpringsedapurmagetan()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading14");
 
     }
     public void batiksekarjagad()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading15");
 
     }
     public void batiksidoluhur()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading16");
 
     }
     public void batiksidomukti()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading17");
 
     }
     public void batiksingabarong()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading18");
 
     }
     public void batiktambal()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading19");
     }
     public void batiktubo()
     {
-        SceneManager.LoadScene("loadinginfo"); 
+        SceneManager.LoadScene("loading20"); 
 
     }
-    public void batikunsil()
-    {
-        SceneManager.LoadScene("loadinginfo");
-    }
+   
     
 }
