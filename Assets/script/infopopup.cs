@@ -7,7 +7,7 @@ public class infopopup : MonoBehaviour
 {
     public void batik7rupa()
     {
-        SceneManager.LoadScene("loadinginfo");
+        SceneManager.LoadScene("loading1");
     }
     public void batikgarutan()
     {

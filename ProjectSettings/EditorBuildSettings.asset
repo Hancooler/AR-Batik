@@ -47,9 +47,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/batikparangsolo.unity
     guid: 624900353cb3c7340a5cba28bd09184c
-  - enabled: 0
-    path: Assets/Scenes/batikpisangbledak.unity
-    guid: c11c84d5ff7174b449f2b32659894145
   - enabled: 1
     path: Assets/Scenes/batikpriangan.unity
     guid: e471c5090a829154bacc1e56d2a13320
@@ -84,8 +81,8 @@ EditorBuildSettings:
     path: Assets/Scenes/loadingabout.unity
     guid: df4e75fcf8cff1a4488096c6de8c8f74
   - enabled: 1
-    path: Assets/Scenes/loadinginfo.unity
-    guid: 810e152717386cb47b8ace9de9f4f767
+    path: Assets/Scenes/loading1.unity
+    guid: 6a3d3e9e1ceaf2a49800ade518619762
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5b21700322a14c84eba0ac841f34e3e6, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 2bac1a2e54796ac40a8a83f974fee258, type: 2}

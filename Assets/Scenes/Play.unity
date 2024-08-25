@@ -9761,8 +9761,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: play, Assembly-CSharp
+      - m_Target: {fileID: 394135327}
+        m_TargetAssemblyTypeName: infopopup, Assembly-CSharp
         m_MethodName: batik7rupa
         m_Mode: 1
         m_Arguments:
