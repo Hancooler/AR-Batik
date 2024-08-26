@@ -140,6 +140,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/loading20.unity
     guid: 6d08335c15790154091e002f7a28d39b
+  - enabled: 1
+    path: Assets/Scenes/loadingback.unity
+    guid: cb69f9afe86e77c42b563d1306974b62
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5b21700322a14c84eba0ac841f34e3e6, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 2bac1a2e54796ac40a8a83f974fee258, type: 2}

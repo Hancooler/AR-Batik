@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
-public class NewBehaviourScript : MonoBehaviour
+public class batikback : MonoBehaviour
 {
-   public void Back()
+    public void back()
     {
-        SceneManager.LoadScene("Play");
+        SceneManager.LoadScene("loadingback");
     }
+
 }
