@@ -212,9 +212,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6b040d563552d24391c7e4abe270e71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  masukanloadingbar: {fileID: 0}
+  masukanloadingbar: {fileID: 534316089}
   nilaiSekarang: 0
-  nilaiKecepatan: 0
+  nilaiKecepatan: 50
 --- !u!1 &288363038
 GameObject:
   m_ObjectHideFlags: 0
