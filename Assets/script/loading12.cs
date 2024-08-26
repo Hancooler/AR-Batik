@@ -26,7 +26,7 @@ public class loading12 : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene("batikparang");
+            SceneManager.LoadScene("batikparangsolo");
         }
         masukanloadingbar.GetComponent<Image>().fillAmount = nilaiSekarang / 100f;
     }

@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 69345562}
   - component: {fileID: 69345565}
   - component: {fileID: 69345564}
-  - component: {fileID: 69345563}
+  - component: {fileID: 69345566}
   m_Layer: 5
   m_Name: loading_1
   m_TagString: Untagged
@@ -162,21 +162,6 @@ RectTransform:
   m_AnchoredPosition: {x: 2, y: 2}
   m_SizeDelta: {x: -11.72998, y: -12.746902}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &69345563
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 69345561}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f679a9fc27774e14b9525484f81769f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  masukanloadingbar: {fileID: 534316089}
-  nilaiSekarang: 0
-  nilaiKecepatan: 50
 --- !u!114 &69345564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,6 +200,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 69345561}
   m_CullTransparentMesh: 1
+--- !u!114 &69345566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 69345561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3842726a2aff50b4c9e7cdb0ab21212b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masukanloadingbar: {fileID: 534316089}
+  nilaiSekarang: 0
+  nilaiKecepatan: 50
 --- !u!1 &288363038
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,6 +598,7 @@ GameObject:
   - component: {fileID: 534316089}
   - component: {fileID: 534316091}
   - component: {fileID: 534316090}
+  - component: {fileID: 534316092}
   m_Layer: 5
   m_Name: loading_2
   m_TagString: Untagged
@@ -662,6 +663,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534316088}
   m_CullTransparentMesh: 1
+--- !u!114 &534316092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 534316088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b040d563552d24391c7e4abe270e71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masukanloadingbar: {fileID: 534316089}
+  nilaiSekarang: 0
+  nilaiKecepatan: 50
 --- !u!1 &635833399
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,8 +817,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -18.966064, y: 34.948975}
-  m_SizeDelta: {x: 2095.0752, y: 3878.6577}
+  m_AnchoredPosition: {x: -17.814392, y: -55.24121}
+  m_SizeDelta: {x: 2194, y: 3746.7266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &699417283
 MonoBehaviour:
@@ -968,8 +984,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0075683594, y: -0.0012207031}
-  m_SizeDelta: {x: 1230.8, y: 2662.8}
+  m_AnchoredPosition: {x: 0.0064697266, y: 0.0056152344}
+  m_SizeDelta: {x: 1230.7, y: 2662.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2124378608
 MonoBehaviour:
