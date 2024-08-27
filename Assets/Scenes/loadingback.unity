@@ -856,7 +856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78fd4a6a6dc5a6b47b522f9e2874f605, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  masukanloadingbar: {fileID: 0}
+  masukanloadingbar: {fileID: 2140405285}
   nilaiSekarang: 0
   nilaiKecepatan: 50
 --- !u!1 &1734339533
