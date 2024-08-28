@@ -26,7 +26,7 @@ public class loading4 : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene("batikkalimantan");
+            SceneManager.LoadScene("batikkalimantantimur");
         }
         masukanloadingbar.GetComponent<Image>().fillAmount = nilaiSekarang / 100f;
     }

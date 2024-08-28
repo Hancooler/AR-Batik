@@ -598,7 +598,6 @@ GameObject:
   - component: {fileID: 534316089}
   - component: {fileID: 534316091}
   - component: {fileID: 534316090}
-  - component: {fileID: 534316092}
   m_Layer: 5
   m_Name: loading_2
   m_TagString: Untagged
@@ -663,21 +662,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534316088}
   m_CullTransparentMesh: 1
---- !u!114 &534316092
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 534316088}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6b040d563552d24391c7e4abe270e71, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  masukanloadingbar: {fileID: 534316089}
-  nilaiSekarang: 0
-  nilaiKecepatan: 50
 --- !u!1 &635833399
 GameObject:
   m_ObjectHideFlags: 0
@@ -984,8 +968,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.006652832, y: -0.005126953}
-  m_SizeDelta: {x: 1230.7, y: 2662.8}
+  m_AnchoredPosition: {x: 0, y: 8.681641}
+  m_SizeDelta: {x: 1230.7, y: 2667.8086}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2124378608
 MonoBehaviour:
